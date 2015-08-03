@@ -33,6 +33,8 @@ public class Main {
 		System.out.println(s1.i);
 		System.out.println(s2.i);
 		System.out.println("jackie9692 modified");
+		System.out.println("Jackie_9692modified");
+>>>>>>> 
 	}
 
 }
